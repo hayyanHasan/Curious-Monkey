@@ -1,7 +1,7 @@
 # Curious-Monkey
 <b>Curious-Monkey</b>: is an extended version of Monkey UI events generator that provoides the ability to generate system events and handle the must used evasion techniques by Android malware dynamically.
 
-Foldes overview:
+Folders overview:
 
 1-<b> Curious-Monkey </b>: This folder contains the original code of Monkey (that is responsible for generating UI events), and the code of system events. In this version we sit Monkey to generate 10000 events for two times.
 
